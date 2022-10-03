@@ -26,6 +26,8 @@ I hope to contribute a little to the community.
 
 [PHP & MySQL: PDO x MySQLi](https://speakerdeck.com/marcosmarcolin/php-and-mysql-pdo-x-mysqli)
 
+[High-performance PHP backend](https://speakerdeck.com/marcosmarcolin/back-end-de-alta-performance)
+
 ### 2018
 
 [Software Prototyping for Devs](https://speakerdeck.com/marcosmarcolin/prototipagem-de-software-para-devs)
